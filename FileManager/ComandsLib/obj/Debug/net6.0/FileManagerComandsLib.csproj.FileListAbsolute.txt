@@ -1,0 +1,24 @@
+C:\Users\XTreme.ws\Desktop\FileManager-main\ComandsLib\bin\Debug\net6.0\FileManagerComandsLib.deps.json
+C:\Users\XTreme.ws\Desktop\FileManager-main\ComandsLib\bin\Debug\net6.0\FileManagerComandsLib.dll
+C:\Users\XTreme.ws\Desktop\FileManager-main\ComandsLib\bin\Debug\net6.0\FileManagerComandsLib.pdb
+C:\Users\XTreme.ws\Desktop\FileManager-main\ComandsLib\obj\Debug\net6.0\FileManagerComandsLib.csproj.AssemblyReference.cache
+C:\Users\XTreme.ws\Desktop\FileManager-main\ComandsLib\obj\Debug\net6.0\FileManagerComandsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XTreme.ws\Desktop\FileManager-main\ComandsLib\obj\Debug\net6.0\FileManagerComandsLib.AssemblyInfoInputs.cache
+C:\Users\XTreme.ws\Desktop\FileManager-main\ComandsLib\obj\Debug\net6.0\FileManagerComandsLib.AssemblyInfo.cs
+C:\Users\XTreme.ws\Desktop\FileManager-main\ComandsLib\obj\Debug\net6.0\FileManagerComandsLib.csproj.CoreCompileInputs.cache
+C:\Users\XTreme.ws\Desktop\FileManager-main\ComandsLib\obj\Debug\net6.0\FileManagerComandsLib.dll
+C:\Users\XTreme.ws\Desktop\FileManager-main\ComandsLib\obj\Debug\net6.0\refint\FileManagerComandsLib.dll
+C:\Users\XTreme.ws\Desktop\FileManager-main\ComandsLib\obj\Debug\net6.0\FileManagerComandsLib.pdb
+C:\Users\XTreme.ws\Desktop\FileManager-main\ComandsLib\obj\Debug\net6.0\ref\FileManagerComandsLib.dll
+C:\Users\utkin\OneDrive\Рабочий стол\FileManager-main\ComandsLib\bin\Debug\net6.0\FileManagerComandsLib.deps.json
+C:\Users\utkin\OneDrive\Рабочий стол\FileManager-main\ComandsLib\bin\Debug\net6.0\FileManagerComandsLib.dll
+C:\Users\utkin\OneDrive\Рабочий стол\FileManager-main\ComandsLib\bin\Debug\net6.0\FileManagerComandsLib.pdb
+C:\Users\utkin\OneDrive\Рабочий стол\FileManager-main\ComandsLib\obj\Debug\net6.0\FileManagerComandsLib.csproj.AssemblyReference.cache
+C:\Users\utkin\OneDrive\Рабочий стол\FileManager-main\ComandsLib\obj\Debug\net6.0\FileManagerComandsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utkin\OneDrive\Рабочий стол\FileManager-main\ComandsLib\obj\Debug\net6.0\FileManagerComandsLib.AssemblyInfoInputs.cache
+C:\Users\utkin\OneDrive\Рабочий стол\FileManager-main\ComandsLib\obj\Debug\net6.0\FileManagerComandsLib.AssemblyInfo.cs
+C:\Users\utkin\OneDrive\Рабочий стол\FileManager-main\ComandsLib\obj\Debug\net6.0\FileManagerComandsLib.csproj.CoreCompileInputs.cache
+C:\Users\utkin\OneDrive\Рабочий стол\FileManager-main\ComandsLib\obj\Debug\net6.0\FileManagerComandsLib.dll
+C:\Users\utkin\OneDrive\Рабочий стол\FileManager-main\ComandsLib\obj\Debug\net6.0\refint\FileManagerComandsLib.dll
+C:\Users\utkin\OneDrive\Рабочий стол\FileManager-main\ComandsLib\obj\Debug\net6.0\FileManagerComandsLib.pdb
+C:\Users\utkin\OneDrive\Рабочий стол\FileManager-main\ComandsLib\obj\Debug\net6.0\ref\FileManagerComandsLib.dll

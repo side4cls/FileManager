@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FileManagerComandsLib/1.0.0": {
+        "runtime": {
+          "FileManagerComandsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileManagerComandsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
